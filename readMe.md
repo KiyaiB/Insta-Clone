@@ -28,3 +28,5 @@ This is an Instagram clone web application that enables users to share their pho
 * Javascript
 * HTML
 * CSS
+
+## Contact Information
