@@ -20,3 +20,11 @@ This is an Instagram clone web application that enables users to share their pho
 * Access the live site using the local host provided
 
 ## Technologies Used
+
+* Python3
+* Django 
+* Postgresql
+* Bootstrap
+* Javascript
+* HTML
+* CSS
