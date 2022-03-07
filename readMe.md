@@ -18,3 +18,5 @@ This is an Instagram clone web application that enables users to share their pho
 * Install all the requirements found in requirements file.
 * On your terminal run python3 manage.py runserver
 * Access the live site using the local host provided
+
+## Technologies Used
