@@ -17,7 +17,7 @@ class ProfileTestClass(TestCase):
         self.assertTrue(isinstance(self.Babra, Profile))
 
     def test_save_method(self):
-        self.Kennedy.save_profile()
+        self.Babra.save_profile()
         name = Profile.objects.all()
 
     def test_delete_method(self):
