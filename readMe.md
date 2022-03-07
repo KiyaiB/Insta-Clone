@@ -30,3 +30,6 @@ This is an Instagram clone web application that enables users to share their pho
 * CSS
 
 ## Contact Information
+
+In case of any enquiries feel free to contact me at my email address at
+babrakiyai080@gmail.com
