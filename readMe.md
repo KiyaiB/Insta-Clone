@@ -11,7 +11,7 @@ This is an Instagram clone web application that enables users to share their pho
 ## Setup And Installation
 
 * Fork the data onto your own personal repository.
-* Clone Project to your machine
+* Clone Project to your machine.
          
 
 * Activate a virtual environment on terminal: source virtual/bin/activate
